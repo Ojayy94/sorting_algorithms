@@ -1,10 +1,5 @@
 #include "sort.h"
 
-void swap_int(int *i, int *j);
-int lomuto_partition(int *array, size_t size, int left, int right);
-void lomuto_sort(int *array, size_t size, int left, int right);
-void quick_sort(int *array, size_t size);
-
 /**
  * swap_int - function that sorts an array of integers in ascending order
  * @i: array of integers
