@@ -2,7 +2,7 @@
 
 /**
  * bubble_sort - using the Bubble sort algorithm
- * @array: print the array after each time you swap two elements 
+ * @array: print the array after each time you swap two elements
  * @size: Size
  * Return: Sorted
  */
